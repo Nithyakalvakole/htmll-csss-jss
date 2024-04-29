@@ -1,0 +1,22 @@
+
+    *{
+        background-color:hotpink;
+        font-size: xx-large;
+    }
+    
+    p.c1{
+        background-color: yellow;
+        color: green;
+    }
+        p.c2{
+           font-size: large;
+        }
+
+    h1.c1{
+        background-color: aqua;
+        color:brown
+    }
+    .test{
+        background-color: cornflowerblue;
+        color:cornsilk;
+    }
